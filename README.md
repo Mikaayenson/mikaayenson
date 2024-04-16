@@ -1,3 +1,27 @@
+
+
+# Hi there, I'm Mika! 👋
+
+I'm a Security Research / Software Engineer on the Threat Research and Detection Engineering team at Elastic. I have a particular interest in security, Python, and generative AI technologies. I'm always looking to collaborate on cool projects, so feel free to reach out!
+
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+## 🔭 Current Projects
+- [detection-rules](https://github.com/elastic/detection-rules): Managed detection rules for Elastic Security.
+- [detections-as-code](https://dac-reference.readthedocs.io/en/latest/index.html): A reference implementation for detections as code.
+- LLM Detections: Internally exploring the use of generative AI for all things security detections.
+
+## 🌱 Blogs 
+- Check out any of my [articles](https://www.ayenson.com/articles) for topics on security, software engineering, and generative AI that I've written about.
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mika-ayenson) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mikaayenson)
+
+
+
+## ⚡ Fun Facts
+
 <table>
   <tr>
 <!--     <th><img height="210px" src="https://user-images.githubusercontent.com/1636709/172463412-0a19a967-05d5-4c9b-990d-b17ca949268f.gif" /></th> -->
